@@ -3,7 +3,8 @@
 #### This is simple demo circle shape loading screen for your project
 
 
-![Alt text](LodingScreen.gif)
+<img src="https://github.com/prasanna892/PyQt5_loading_screen/blob/main/LoadingScreen.gif" />
+
 
 
 Mail address : k.prasannagh@gmail.com
