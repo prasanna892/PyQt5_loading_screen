@@ -3,7 +3,7 @@
 #### This is simple demo circle shape loading screen for your project
 
 
-![](LodingScreen.gif)
+![Alt text](LodingScreen.gif)
 
 
 Mail address : k.prasannagh@gmail.com
